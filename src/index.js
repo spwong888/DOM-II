@@ -52,5 +52,6 @@ window.onload = function(evt) {
     })
         destination.addEventListener('mouseleave', () => {
         destination.style.fontWeight = 'initial';
-}
+})
+    }
     }
